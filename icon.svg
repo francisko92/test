@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#101515"/>
+  <circle cx="256" cy="256" r="196" fill="#215c45" stroke="#caa44e" stroke-width="20"/>
+  <path d="M146 174c28-54 72-82 110-82s82 28 110 82l-35 18c-20-37-46-56-75-56s-55 19-75 56z" fill="#caa44e"/>
+  <path d="M158 190l-54-52c52-8 86 2 108 26l-24 40zm196 0 54-52c-52-8-86 2-108 26l24 40z" fill="#f2f0ea" stroke="#caa44e" stroke-width="10"/>
+  <path d="M170 202h172v75c0 75-49 137-86 137s-86-62-86-137z" fill="#f2f0ea"/>
+  <path d="M183 212h146v58H183z" fill="#215c45"/>
+  <circle cx="219" cy="272" r="13" fill="#101515"/>
+  <circle cx="293" cy="272" r="13" fill="#101515"/>
+  <path d="M219 326c24 18 50 18 74 0" fill="none" stroke="#101515" stroke-width="12" stroke-linecap="round"/>
+  <path d="M202 324l54 88 54-88-54 28z" fill="#caa44e"/>
+  <text x="256" y="472" text-anchor="middle" font-family="Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f0ea">VV</text>
+</svg>
