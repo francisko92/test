@@ -1,0 +1,12 @@
+{
+  "name": "Vikings Verds · Socis",
+  "short_name": "Vikings Verds",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101515",
+  "theme_color": "#215c45",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
